@@ -37,6 +37,7 @@
   color: #111;
   font-size: 1.6875rem;
   padding: 10px;
+  font-weight: bold;
 }
 
 .menu li a:hover {
